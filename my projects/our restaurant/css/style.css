@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+}
+body{
+    
+}
+
+
+.conteiner {
+    width: 1440px;
+    height: 800px;
+    margin: 0 auto;
+    background-image: url(../img/hero\ image.png);
+}
+.header{
+    width: 100%;
+    height: 120px;
+    display: flex;
+    position: relative;
+    justify-content: space-evenly;
+
+}
+.logo {
+       
+}
+.logo-1{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 50px;
+    border: 3px solid #FF7400;
+    transform: rotate(-45deg);
+    left: 197.04px;
+}
+
+.logo-2{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 50px;
+    left: 165px;
+    border: 3px solid #FF7400;
+    transform: rotate(-45deg);    
+}
+.nav-bar{
+    width: 742px;
+    height: 64px;
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid white;
+    top: 55px;
+    
+    
+}
+.menu{
+}
+
+.contact {
+}
+.reserve_table {
+}
+.main {
+}
+.main-text {
+}
+.main-text1 {
+}
+.main-text2 {
+}
+.pic {
+}
+.pic-1 {
+
+}
+.pic-2 {
+}
+.pic-3 {
+}
